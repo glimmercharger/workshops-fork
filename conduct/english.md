@@ -12,18 +12,6 @@ It doesn’t have to be like this. An online community can be a place where peop
 
 These principles are always good, but not always clear, so read on to see how we apply them in practice. No set of rules can perfectly capture the right thing to do in every situation. We will always hold you, and ourselves, to these values. If you do not follow these values, we will try and get you to change. If you do not change, we will remove you from Hack Club.
 
-## Where the Code of Conduct Applies
-
-- Our Slack
-- Clubs
-- Events (in-person or online) and affiliated programs
-- Our GitHub organization and repositories
-- Student-run organizations on HCB
-
-The code of conduct applies to everyone who participates in these spaces, including Hack Clubbers, volunteers, staff, and alumni.
-
-We may still take action when Hack Clubbers break the code of conduct while interacting with each other in non-Hack Club spaces.
-
 ## Treat everyone with respect and kindness
 
 1. Be friendly and welcoming
@@ -78,5 +66,17 @@ You can contact us by:
  - Clubs: jared@hackclub.com 
 
 Reports are confidential. Reporters’ identifying information is not shared outside the Working group without direct consent.
+
+## Where the Code of Conduct Applies
+
+- Our Slack
+- Clubs
+- Events (in-person or online) and affiliated programs
+- Our GitHub organization and repositories
+- Student-run organizations on HCB
+
+The code of conduct applies to everyone who participates in these spaces, including Hack Clubbers, volunteers, staff, and alumni.
+
+We may still take action when Hack Clubbers break the code of conduct while interacting with each other in non-Hack Club spaces.
 
 This Code of Conduct is not generic legalese. This is our serious answer to the question "How do we make Hack Club an amazing, life-changing community?" We care about the Code of Conduct because we care about all of you.
